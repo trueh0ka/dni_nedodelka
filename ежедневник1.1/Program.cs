@@ -42,9 +42,7 @@ namespace ежедневник1._1
             while(true)
             {
                 Days();
-                Console.Clear();
                 ConsoleKeyInfo clavisha = Console.ReadKey();
-                Strelki(clavisha);
             }
         }
         static int[] Days()
@@ -92,6 +90,18 @@ namespace ежедневник1._1
                 clavisha = Console.ReadKey();
             }
             return Strelki();
+        }
+        private static void Zametki()
+        {
+            Console.WriteLine("Вы выбрали: ");
+            Console.WriteLine(data1);
+            foreach (var item in DayInfo.DaysInfo) ;
+            {
+                if (item.Day == data1.Day)
+                {
+
+                }    
+            }
         }
     }
 }

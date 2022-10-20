@@ -1,0 +1,30 @@
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.csproj.AssemblyReference.cache
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.AssemblyInfoInputs.cache
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.AssemblyInfo.cs
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\bin\Debug\net6.0\ежедневник1.1.exe
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\bin\Debug\net6.0\ежедневник1.1.deps.json
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\bin\Debug\net6.0\ежедневник1.1.runtimeconfig.json
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\bin\Debug\net6.0\ежедневник1.1.dll
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\bin\Debug\net6.0\ежедневник1.1.pdb
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.dll
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\refint\ежедневник1.1.dll
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.pdb
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.genruntimeconfig.cache
+C:\Users\Алексей\source\repos\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ref\ежедневник1.1.dll
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\bin\Debug\net6.0\ежедневник1.1.exe
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\bin\Debug\net6.0\ежедневник1.1.deps.json
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\bin\Debug\net6.0\ежедневник1.1.runtimeconfig.json
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\bin\Debug\net6.0\ежедневник1.1.dll
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\bin\Debug\net6.0\ежедневник1.1.pdb
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.csproj.AssemblyReference.cache
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.AssemblyInfoInputs.cache
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.AssemblyInfo.cs
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.csproj.CoreCompileInputs.cache
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.dll
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\refint\ежедневник1.1.dll
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.pdb
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ежедневник1.1.genruntimeconfig.cache
+C:\Users\vipal\OneDrive\Рабочий стол\ежедневник1.1\ежедневник1.1\obj\Debug\net6.0\ref\ежедневник1.1.dll
